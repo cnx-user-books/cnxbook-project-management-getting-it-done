@@ -1,0 +1,468 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>A Glossary of Project Management Terms</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31434</md:content-id>
+  <md:title>A Glossary of Project Management Terms</md:title>
+  <md:abstract/>
+  <md:uuid>88b9c418-23f9-4469-97d5-479268346827</md:uuid>
+</metadata>
+
+<content>
+    <para id="id8663911">Every discipline has its own vocabulary, and project management is no exception. Part of the process of successfully deploying project management in your organization is to standardize the terminology. That way, when one person talks about risks, scope, issues, requirements, and other project management concerns, everyone else knows what he or she is referring to. This glossary contains common terms used in project management and can help start the standardization process.</para>
+    <section id="id1165174546176">
+      <title>Assumption </title>
+      <para id="id1165167765127">There may be external circumstances or events that must occur for the project to be successful (or that should happen to increase your chances of success). If you believe that the probability of the event occurring is acceptable, you could list it as an assumption. An assumption has a probability between 0 and 100%. That is, it is not impossible that the event will occur (0%) and it is not a fact (100%). It is somewhere in between. Assumptions are important because they set the context in which the entire remainder of the project is defined. If an assumption doesn't come through, the estimate and the rest of the project definition may no longer be valid. </para>
+    </section>
+    <section id="id1165172815463">
+      <title>BAC</title>
+      <para id="id3326850">Budget at completion (BAC) is the sum of all budgets allocated to a project.</para>
+    </section>
+    <section id="id1165180332696">
+      <title>Backward pass</title>
+      <para id="id1165172514955">Calculation of the latest finish times by working from finish-to-start for the uncompleted portion of a network of activities. </para>
+    </section>
+    <section id="id4289807">
+      <title>Balanced matrix</title>
+      <para id="id1165167348115">An organizational matrix where functions and projects have the same priority.</para>
+    </section>
+    <section id="id1165168051872">
+      <title>Bar chart</title>
+      <para id="id1165172879008">A view of the project schedule that uses horizontal bars on a time scale to depict activity information; frequently called a Gantt chart.</para>
+    </section>
+    <section id="id1165169407218">
+      <title>Baseline</title>
+      <para id="id7875050">The value or condition against which all future measurements will be compared.</para>
+    </section>
+    <section id="id1165170360856">
+      <title>Baseline cost</title>
+      <para id="id1165170264262">The amount of money an activity was intended to cost when the baseline plan was established.</para>
+    </section>
+    <section id="id1165169297246">
+      <title>Baseline dates</title>
+      <para id="id1165167356506">Original planned start and finished dates for an activity. Used to compare with current planned dates to determine any delays. Also used to calculate budgeted cost of work scheduled in earned value analysis. </para>
+    </section>
+    <section id="id1165178474179">
+      <title>Baseline plan</title>
+      <para id="id1165177132163">The original plan (for a project, a work package, or an activity), plus or minus approved changes. Usually used with a modifier, e.g., cost baseline, schedule baseline, performance measurement baseline, etc. </para>
+    </section>
+    <section id="id1165170840425">
+      <title>Best practices</title>
+      <para id="id1165170332584">Techniques that agencies may use to help detect problems in the acquisition, management, and administration of service contracts. Best practices are practical techniques gained from experience that have been shown to produce best results.</para>
+    </section>
+    <section id="id6523456">
+      <title>Beta testing</title>
+      <para id="id1165180623483">Pre-release testing in which a sampling of the intended customer base tries out the product. </para>
+    </section>
+    <section id="id1165167765634">
+      <title>Bottom-up cost estimate</title>
+      <para id="id2841205">The approach to making a cost estimate or plan in which detailed estimates are made for every task shown in the work breakdown structure and then summed to provide a total cost estimate or plan for the project.</para>
+    </section>
+    <section id="id1165180321370">
+      <title>Brainstorming</title>
+      <para id="id1165172255866">The unstructured and dynamic generation of ideas by a group of people where anything and everything is acceptable, particularly useful in generating a list of potential project risks. </para>
+    </section>
+    <section id="id8751450">
+      <title>Budget</title>
+      <para id="id1165177128510">Generally refers to a list of all planned expenses and revenues.</para>
+    </section>
+    <section id="id1165170956781">
+      <title>Budgeted cost of work performed (BCWP)</title>
+      <para id="id1165168785642">Measures the budgeted cost of work that has actually been performed, rather than the cost of work scheduled.</para>
+    </section>
+    <section id="id1165167733751">
+      <title>Budgeted cost of work scheduled (BCWS)</title>
+      <para id="id1165179767830">The approved budget that has been allocated to complete a scheduled task, or work breakdown structure (WBS) component, during a specific time period.</para>
+    </section>
+    <section id="id1165178312716">
+      <title>Business analysis</title>
+      <para id="id1165167356302">Is the set of tasks, knowledge, and techniques required to identify business needs and determine solutions to business problems. Solutions often include a systems development component, but may also consist of process improvement or organizational change.</para>
+    </section>
+    <section id="id1165180213165">
+      <title>Business area</title>
+      <para id="id8686225">The part of the organization containing the business operations affected by a program or project. </para>
+    </section>
+    <section id="id1165178696661">
+      <title>Business case</title>
+      <para id="id1165174564250">A document developed towards the end of the concept phase, to establish the merits and desirability of the project and justification for further project definition. </para>
+    </section>
+    <section id="id1165180738781">
+      <title>Business needs</title>
+      <para id="id2311906">The requirements of an enterprise to meet its goals and objectives.</para>
+    </section>
+    <section id="id7841992">
+      <title>Business operations</title>
+      <para id="id1498823">The ongoing recurring activities involved in the running of a business for the purpose of producing value for the stakeholders. They are contrasted with project management, and consist of business processes.</para>
+    </section>
+    <section id="id1165176763949">
+      <title>Business process</title>
+      <para id="id1584364">A collection of related, structured activities or tasks that produce a specific service or product (serve a particular goal) for a particular customer or customers. There are three types of business processes: management processes, operational processes, and supporting processes.</para>
+    </section>
+    <section id="id1165178180320">
+      <title>Case study</title>
+      <para id="id2905613">A research method which involves an in-depth, longitudinal examination of a single instance or event: a case. They provide a systematic way of looking at events, collecting data, analyzing information, and reporting the results.</para>
+    </section>
+    <section id="id3391392">
+      <title>Champion</title>
+      <para id="id8648785">An end user representative, often seconded into a project team. Someone who acts as an advocate for a proposal or project. </para>
+    </section>
+    <section id="id1165173148845">
+      <title>Change control</title>
+      <para id="id1165178603863">A general term describing the procedures used to ensure that changes (normally, but not necessarily, to IT systems) are introduced in a controlled and coordinated manner. Change control is a major aspect of the broader discipline of change management.</para>
+    </section>
+    <section id="id7739450">
+      <title>Change management</title>
+      <para id="id1165167356792">The formal process through which changes to the project plan are approved and introduced.</para>
+    </section>
+    <section id="id3856052">
+      <title>Change order</title>
+      <para id="id1165167355955">A document that authorizes a change in some aspect of the project. </para>
+    </section>
+    <section id="id1165168933819">
+      <title>Change request</title>
+      <para id="id2554140">A request needed to obtain formal approval for changes to the scope, design, methods, costs, or planned aspects of a project. Change requests may arise through changes in the business or issues in the project. Change requests should be logged, assessed and agreed on before a change to the project can be made.</para>
+    </section>
+    <section id="id1165170133978">
+      <title>Child activity</title>
+      <para id="id1165171236815">Subordinate task belonging to a <emphasis effect="italics">parent</emphasis> task existing at a higher level in the work breakdown structure.</para>
+    </section>
+    <section id="id1165168970156">
+      <title>Client/customers </title>
+      <para id="id1165173591821">The person or group that is the direct beneficiary of a project or service is the client/customer. These are the people for whom the project is being undertaken (indirect beneficiaries are stakeholders). In many organizations, internal beneficiaries are called <emphasis effect="italics">clients</emphasis> and external beneficiaries are called <emphasis effect="italics">
+customers</emphasis>, but this is not a hard and fast rule. </para>
+    </section>
+    <section id="id1165172366543">
+      <title>Constraints </title>
+      <para id="id1165179413966">Constraints are limitations that are outside the control of the project team and need to be managed around. They are not necessarily problems. However, the project manager should be aware of constraints because they represent limitations that the project must execute within. Date constraints, for instance, imply that certain events (perhaps the end of the project) must occur by certain dates. Resources are almost always a constraint, since they are not available in an unlimited supply. </para>
+    </section>
+    <section id="id1165170487399">
+      <title>Critical path </title>
+      <para id="id1165169308430">The critical path is the sequence of activities that must be completed on schedule for the entire project to be completed on schedule. It is the longest duration path through the workplan. If an activity on the critical path is delayed by one day, the entire project will be delayed by one day (unless another activity on the critical path can be accelerated by one day). </para>
+    </section>
+    <section id="id7767790">
+      <title>Closeout</title>
+      <para id="id7881473">The completion of all work on a project. </para>
+    </section>
+    <section id="id4166518">
+      <title>Communication plan</title>
+      <para id="id1165169259978">A statement of project’s stakeholders’ communication and information needs. </para>
+    </section>
+    <section id="id1165168943500">
+      <title>Concept phase</title>
+      <para id="id1165168922187">The first phase of a project in the generic project lifecycle, in which the need is examined, alternatives are assessed, the goals and objectives of the project are established and a sponsor is identified.</para>
+    </section>
+    <section id="id1165172519675">
+      <title>Confidence level</title>
+      <para id="id8190218">A level of confidence, stated as a percentage, for a budget or schedule estimate. The higher the confidence level, the lower the risk. </para>
+    </section>
+    <section id="id1165167356411">
+      <title>Conflict management</title>
+      <para id="id1165169336445">Handling of conflicts between project participants or groups in order to create optimal project results. </para>
+    </section>
+    <section id="id7980760">
+      <title>Conflict resolution</title>
+      <para id="id2224830">To seek a solution to a problem, five methods in particular have been proven through confrontations, compromise, smoothing, forcing and withdrawal. </para>
+    </section>
+    <section id="id8535751">
+      <title>Constraints</title>
+      <para id="id8017030">Constraints are limitations that are outside the control of the project team and need to be managed around. They are not necessarily problems. However, the project manager should be aware of constraints because they represent limitations that the project must execute within. Date constraints, for instance, imply that certain events (perhaps the end of the project) must occur by certain dates. Resources are almost always a constraint, since they are not available in an unlimited supply. </para>
+    </section>
+    <section id="id4145895">
+      <title>Contingencies</title>
+      <para id="id8630725">A Contingency is the planned allotment of time and cost for unforeseeable elements with a project. Including contingencies will increase the confidence of the overall project. </para>
+    </section>
+    <section id="id1165178473194">
+      <title>Control</title>
+      <para id="id8717142">The process of comparing actual performance with planned performance, analyzing the differences, and taking the appropriate corrective action. </para>
+    </section>
+    <section id="id1165179277381">
+      <title>Costs</title>
+      <para id="id1165170692202">The cost value of project activity.</para>
+    </section>
+    <section id="id1165172890132">
+      <title>Costs budgeting</title>
+      <para id="id1165169304892">The allocation of cost estimates to individual project components. </para>
+    </section>
+    <section id="id8706489">
+      <title>Cost overrun</title>
+      <para id="id1165168848822">The amount by which actual costs exceed the baseline or approved costs. </para>
+    </section>
+    <section id="id1165180358714">
+      <title>Crashing</title>
+      <para id="id1165168089894">The process of reducing the time it takes to complete an activity by adding resources. </para>
+    </section>
+    <section id="id7337725">
+      <title>Critical</title>
+      <para id="id8541187">An activity or event that, if delayed, will delay some other important event, commonly the completion of a project or a major milestone in a project.</para>
+    </section>
+    <section id="id1165178055684">
+      <title>Critical path method (CPM)</title>
+      <para id="id4586123">A mathematically based modeling technique for scheduling a set of project activities, used in project management.</para>
+    </section>
+    <section id="id1165172537128">
+      <title>Critical chain project management (CCPM)</title>
+      <para id="id8308446">A method of planning and managing projects that puts more emphasis on the resources required to execute project tasks.</para>
+    </section>
+    <section id="id1165178897959">
+      <title>Critical success factors</title>
+      <para id="id1165178091457">The key factors that are deemed critical to the success of the project. The nature of these factors will govern the response to conflicts, risks and the setting of priorities. </para>
+    </section>
+    <section id="id1165172382710">
+      <title>Culture</title>
+      <para id="id2529931">A person's attitudes arising out of their professional, religious, class, educational, gender, age and other backgrounds.</para>
+    </section>
+    <section id="id1165180430094">
+      <title>Customer</title>
+      <para id="id1165172901571">See client. </para>
+    </section>
+    <section id="id1165167815688">
+      <title>Deliverable</title>
+      <para id="id1165179768652">A deliverable is any tangible outcome that is produced by the project. All projects create deliverables. These can be documents, plans, computer systems, buildings, aircraft, etc. Internal deliverables are produced as a consequence of executing the project and are usually needed only by the project team. External deliverables are those that are created for clients and stakeholders. Your project may create one or many deliverables. </para>
+    </section>
+    <section id="id1165178708516">
+      <title>Dependency</title>
+      <para id="id1165167347684">Dependencies on a project are the relationships between activities whereby one activity must do something (finish-to-start) before another activity can do something (start-to-finish). </para>
+    </section>
+    <section id="id1165168970614">
+      <title>Duration</title>
+      <para id="id4646919">The duration of a project's terminal element is the number of calendar periods it takes from the time the execution of element starts to the moment it is completed.</para>
+    </section>
+    <section id="id1165172520351">
+      <title>Earned value management (EVM)</title>
+      <para id="id8481787">A project management technique for measuring project progress in an objective manner, with a combination of measuring scope, schedule, and cost in a single integrated system.</para>
+    </section>
+    <section id="id1165178468173">
+      <title>Earned schedule (ES)</title>
+      <para id="id2894071">An extension to earned value management (EVM), which renames two traditional measures, to indicate clearly they are in units of currency or quantity, not time.</para>
+    </section>
+    <section id="id1165182716992">
+      <title>Estimation</title>
+      <para id="id1165167356649">In project management it is the processes of making accurate estimates using the appropriate techniques. </para>
+    </section>
+    <section id="id8757097">
+      <title>Event chain diagram</title>
+      <para id="id1165169936288">A diagram that show the relationships between events and tasks and how the events affect each other.</para>
+    </section>
+    <section id="id8650227">
+      <title>Event chain methodology</title>
+      <para id="id6676358">An uncertainty modeling and schedule network analysis technique that is focused on identifying and managing events and event chains that affect project schedules.</para>
+    </section>
+    <section id="id3395100">
+      <title>Float</title>
+      <para id="id2158152">In a project network is the amount of time that a task in a project network can be delayed without causing a delay to subsequent tasks and or the project completion date.</para>
+    </section>
+    <section id="id1165178311753">
+      <title>Functional manager </title>
+      <para id="id1165172881130">The functional manager is the person you report to within your functional organization. Typically, this is the person who does your performance review. The project manager may also be a functional manager, but he or she does not have to be. If your project manager is different from your functional manager, your organization is probably utilizing matrix management. </para>
+    </section>
+    <section id="id1165170767916">
+      <title>Gantt, Henry</title>
+      <para id="id1165180327413">An American mechanical engineer and management consultant, who developed the Gantt chart in the 1910s. </para>
+    </section>
+    <section id="id7956655">
+      <title>Gantt chart </title>
+      <para id="id4113268">A Gantt chart is a bar chart that depicts activities as blocks over time. The beginning and end of the block correspond to the beginning and end-date of the activity. </para>
+    </section>
+    <section id="id1165167516650">
+      <title>Goal</title>
+      <para id="id1165178121631">An objective that consists of a projected state of affairs which a person or a system plans or intends to achieve or bring about a personal or organizational desired end-point in some sort of assumed development. Many people endeavor to reach goals within a finite time by setting deadlines. </para>
+    </section>
+    <section id="id4717401">
+      <title>Goal setting</title>
+      <para id="id1165167535306">Involves establishing specific, measurable and time targeted objectives. </para>
+    </section>
+    <section id="id1165167347579">
+      <title>Graphical evaluation and review technique (GERT)</title>
+      <para id="id1165177131679">A network analysis technique that allows probabilistic treatment of both network logic and activity duration estimated.</para>
+    </section>
+    <section id="id1165172223659">
+      <title>Hammock activity</title>
+      <para id="id1165179404356">A schedule (project management) or project planning term for a grouping of subtasks that <emphasis effect="italics">hangs</emphasis> between two end dates it is tied to. or the two end events it is fixed to.</para>
+    </section>
+    <section id="id1165179660896">
+      <title>ISO 10006</title>
+      <para id="id8084622">A guideline for quality management in projects, is an international standard developed by the International Organization for Standardization.</para>
+    </section>
+    <section id="id1165178244287">
+      <title>Issue</title>
+      <para id="id1165174811180">An issue is a major problem that will impede the progress of the project and that can't be resolved by the project manager and project team without outside help. Project managers should proactively deal with issues through a defined issues management process. </para>
+    </section>
+    <section id="id3355024">
+      <title>Kickoff meeting</title>
+      <para id="id1165168924564">The first meeting with the project team and the client of the project. </para>
+    </section>
+    <section id="id1165173569740">
+      <title>Level of effort (LOE)</title>
+      <para id="id2594043">Is qualified as a support type activity which doesn't lend itself to measurement of a discrete accomplishment. Examples of such an activity may be project budget accounting, customer liaison, etc.</para>
+    </section>
+    <section id="id8530668">
+      <title>Life cycle</title>
+      <para id="id1165178787922">Life cycle refers to the process used to build the deliverables produced by the project. Every project has an inception, a period during which activities move the project toward completion, and a termination (either successful or unsuccessful). Taken together, these phases represent the path a project takes from the beginning to its end and are generally referred to as the project life cycle. The project life cycle is often formally divided into phases that describe common activities as the project matures. </para>
+    </section>
+    <section id="id8647096">
+      <title>Management</title>
+      <para id="id8281805">In business and human organization activity is simply the act of getting people together to accomplish desired goals. Management comprises planning, organizing, staffing, leading or directing, and controlling an organization (a group of one or more people or entities) or effort for the purpose of accomplishing a goal.</para>
+    </section>
+    <section id="id1165177789522">
+      <title>Management process</title>
+      <para id="id1165178802361">A process of planning and controlling the performance or execution of any type of activity. </para>
+    </section>
+    <section id="id8185484">
+      <title>Motivation</title>
+      <para id="id1165177447173">Is the set of reasons that determines one to engage in a particular behavior. </para>
+    </section>
+    <section id="id1165177986881">
+      <title>Milestone</title>
+      <para id="id1165178629437">A milestone is a scheduling event that signifies the completion of a major deliverable or a set of related deliverables. A milestone, by definition, has duration of zero and no effort. There is no work associated with a milestone. It is a flag in the work plan to signify that some other work has completed. Usually, a milestone is used as a project checkpoint to validate how the project is progressing. In many cases there is a decision, such as validating that the project is ready to proceed further, that needs to be made at a milestone. </para>
+    </section>
+    <section id="id2272437">
+      <title>Objective</title>
+      <para id="id1165178386502">An objective is a concrete statement that describes what the project is trying to achieve. The objective should be written at a low level, so that it can be evaluated at the conclusion of a project to see whether it was achieved. Project success is determined based on whether the project objectives were achieved. A technique for writing an objective is to make sure it is <emphasis effect="italics">specific</emphasis>, <emphasis effect="italics">measurable</emphasis>, <emphasis effect="italics">acceptable</emphasis>, <emphasis effect="italics">realistic</emphasis>, and <emphasis effect="italics">time</emphasis> based (SMART). </para>
+    </section>
+    <section id="id8572812">
+      <title>Operations management</title>
+      <para id="id1165170657249">An area of business that is concerned with the production of good quality goods and services, and involves the responsibility of ensuring that business operations are efficient and effective. It is the management of resources, the distribution of goods and services to customers, and the analysis of queue systems.</para>
+    </section>
+    <section id="id1165169327583">
+      <title>Organization</title>
+      <para id="id1165171067930">A social arrangement which pursues collective goals, which controls its own performance, and which has a boundary separating it from its environment.</para>
+    </section>
+    <section id="id7866755"><title>Planning</title><para id="id1165178105003">Planning in project management consists of processes that involve formulating and revising project goals and objectives and creating the project management plan that will be used to achieve the goals the project was undertaken to address. Planning involves determining alternative courses of action and selecting from among the best of those to produce the project's goals.</para>
+</section>
+    <section id="id1165174694495">
+      <title>Process</title>
+      <para id="id7709974">An ongoing collection of activities, with an inputs, outputs and the energy required to transform inputs to outputs. </para>
+    </section>
+    <section id="id1165170915442">
+      <title>Program </title>
+      <para id="id7686133">A program is the umbrella structure established to manage a series of related projects. The program does not produce any project deliverables. The project teams produce them all. The purpose of the program is to provide overall direction and guidance, to make sure the related projects are communicating effectively, to provide a central point of contact and focus for the client and the project teams, and to determine how individual projects should be defined to ensure that all the work gets completed successfully. </para>
+    </section>
+    <section id="id1165172796881">
+      <title>Program management</title>
+      <para id="id1165167355860">The process of managing multiple ongoing inter-dependent projects. An example would be that of designing, manufacturing and providing support infrastructure for an automobile manufacturer.</para>
+    </section>
+    <section id="id6083800">
+      <title>Program manager</title>
+      <para id="id1165180391740">A program manager is the person with the authority to manage a program. (Note that this is a role. The program manager may also be responsible for one or more of the projects within the program.) The program manager leads the overall planning and management of the program. All project managers within the program report to the program manager. </para>
+    </section>
+    <section id="id2350840">
+      <title>Project</title>
+      <para id="id1165178837012">A project is a temporary endeavor undertaken to accomplish a unique product or service with a defined start and end point and specific objectives that, when attained, signify completion. </para>
+    </section>
+    <section id="id1165180556930">
+      <title>Project definition (project charter)</title>
+      <para id="id1535840">Before you start a project, it is important to know the overall objectives of the project, as well as the scope, deliverables, risks, assumptions, project organization chart, etc. The project definition (or project charter) is the document that holds this relevant information. The project manager is responsible for creating the project definition. The document should be approved by the sponsor to signify that the project manager and the sponsor are in agreement on these important aspects of the project. </para>
+    </section>
+    <section id="id7789100">
+      <title>Project manager</title>
+      <para id="id1165172414591">The project manager is the person with the authority to manage a project. The project manager is 100 percent responsible for the processes used to manage the project. He or she also has people management responsibilities for team members, although this is shared with the team member's functional manager. The processes used to manage the project include defining the work, building the work plan and budget, managing the work plan and budget, scope management, issues management, risk management, etc. </para>
+    </section>
+    <section id="id1165178769019">
+      <title>Project management</title>
+      <para id="id1165174851486">Project management is the application of knowledge, skills, tools, and techniques applied to project activities in order to meet or exceed stakeholder needs and expectations from a project. </para>
+    </section>
+    <section id="id8547239">
+      <title>Project management body of knowledge (PMBOK)</title>
+      <para id="id4540966">The sum of knowledge within the profession of project management that is standardized by ISO. </para>
+    </section>
+    
+    <section id="id1165167355894">
+      <title>Project management professional</title>
+      <para id="id8471851">A certificated professional in project management. </para>
+    </section>
+    <section id="id8923397">
+      <title>Project management software</title>
+      <para id="id1165178831162">A type of software, including scheduling, cost control and budget management, resource allocation, collaboration software, communication, quality management and documentation or administration systems, which are used to deal with the complexity of large projects.</para>
+    </section>
+    <section id="id1165167355738">
+      <title>Project phase</title>
+      <para id="id8139263">A phase is a major logical grouping of work on a project. It also represents the completion of a major deliverable or set of related deliverables. On an IT development project, logical phases might be planning, analysis, design, construct (including testing), and implementation. </para>
+    </section>
+    <section id="id1165169301176">
+      <title>Project plan</title>
+      <para id="id1165171206468">A formal, approved document used to guide both project execution and project control. The primary uses of the project plan are to document planning assumptions and decisions, facilitate communication among stakeholders, and document approved scope, cost, and schedule baselines. A project plan may be summary or detailed. </para>
+    </section>
+    <section id="id2319173">
+      <title>Project planning</title>
+      <para id="id1165179316600">A part of project management, which relates to the use of schedules such as Gantt charts to plan and subsequently report progress within the project environment. </para>
+    </section>
+    <section id="id1165177985405">
+      <title>Project team</title>
+      <para id="id1165169262336">The project team consists of the full-time and part-time resources assigned to work on the deliverables of the project. They are responsible for understanding the work to be completed; completing assigned work within the budget, timeline, and quality expectations; informing the project manager of issues, scope changes, and risk and quality concerns; and proactively communicating status and managing expectations. </para>
+    </section>
+    <section id="id1165180623559"><title>Quality</title><para id="id2485567">The standards and criteria to which the project’s products must be delivered for them to perform effectively. First, the product must perform to provide the functionality expected, and to solve the problem, and deliver the benefit and value expected of it. It must also meet other performance requirements, or service levels, such as availability, reliability and maintainability, and have acceptable finish and polish. Quality on a project is controlled through quality assurance (QA) which is the process of evaluating overall project’s performance on a regular basis to provide confidence that the project will satisfy the relevant quality  standards. </para>
+</section>
+    <section id="id2553753">
+      <title>Requirements</title>
+      <para id="id1165172225174">Requirements are descriptions of how a product or service should act, appear, or perform. Requirements generally refer to the features and functions of the deliverables you are building on your project. Requirements are considered to be a part of project scope. High-level scope is defined in your project definition (charter). The requirements form the detailed scope. After your requirements are approved, they can be changed through the scope change management process. </para>
+    </section>
+    <section id="id8569096"><title>Resources</title><para id="id1165167327101">Resources are the people, equipment, and materials needed to complete the wrok of the project.</para>
+</section>
+    <section id="id1165174357420">
+      <title>Risk</title>
+      <para id="id1165172382510">There may be potential external events that will have a negative impact on your project if they occur. Risk refers to the combination of the probability the event will occur and the impact on the project if the event occurs. If the combination of the probability of the occurrence and the impact to the project is too high, you should identify the potential event as a risk and put a proactive plan in place to manage the risk. </para>
+    </section>
+    <section id="id1165180327364"><title>Risk management planning</title><para id="id1165167835068">The process that determines how risks will be managed for a project. It describes how risks are defined, monitored, and controlled throughout the project.</para>
+</section>
+    <section id="id1165172421384"><title>Schedule development</title><para id="id2738959">This process calculates and prepares the schedule of project activities, which becomes the schedule baseline. It determines activity start and finish dates, finalizes activity sequences and durations, and assigns resources to activities. </para>
+</section>
+    <section id="id1165167348024">
+      <title>Scope</title>
+      <para id="id1165167356370">Scope is the way you describe the boundaries of the project. It defines what the project will deliver and what it will not deliver. High-level scope is set in your project definition (charter) and includes all of your deliverables and the boundaries of your project. The detailed scope is identified through your business requirements. Any changes to your project deliverables, boundaries, or requirements would require approval through scope change management. </para>
+    </section>
+    
+    <section id="id1165179997519">
+      <title>Scope creep</title>
+      <para id="id1165172501973">Refers to uncontrolled changes in a project's scope. This phenomenon can occur when the scope of a project is not properly defined, documented, or controlled. It is generally considered a negative occurrence that is to be avoided.</para>
+    </section>
+    
+    <section id="id1165178850804">
+      <title>Six sigma</title>
+      <para id="id1165167355642">A business management strategy, originally developed by Motorola, that today enjoys widespread application in many sectors of industry.</para>
+    </section>
+    <section id="id8248266">
+      <title>Sponsor (executive sponsor and project sponsor)</title>
+      <para id="id1165178303823">The sponsor is the person who has ultimate authority over the project. The executive sponsor provides project funding, resolves issues and scope changes, approves major deliverables, and provides high-level direction. He or she also champions the project within the organization. Depending on the project and the organizational level of the executive sponsor, he or she may delegate day-to-day tactical management to a project sponsor. If assigned, the project sponsor represents the executive sponsor on a day-to-day basis and makes most of the decisions requiring sponsor approval. If the decision is large enough, the project sponsor will take it to the executive sponsor. </para>
+    </section>
+    <section id="id1165167416984">
+      <title>Stakeholder</title>
+      <para id="id1165180393466">Specific people or groups who have a stake in the outcome of the project are stakeholders. Normally stakeholders are from within the company and may include internal clients, management, employees, administrators, etc. A project can also have external stakeholders, including suppliers, investors, community groups, and government organizations. </para>
+    </section>
+    <section id="id1165177864918">
+      <title>Steering committee</title>
+      <para id="id1165167557003">A steering committee is usually a group of high-level stakeholders who are responsible for providing guidance on overall strategic direction. They don't take the place of a sponsor but help spread the strategic input and buy-in to a larger portion of the organization. The steering committee is especially valuable if your project has an impact in multiple organizations because it allows input from those organizations into decisions that affect them. </para>
+    </section>
+    <section id="id1165180713976">
+      <title>Systems development lifecycle (SDLC)</title>
+      <para id="id1165167769140">Is any logical process used by a systems analyst to develop an information system, including requirements, validation, training, and user ownership. An SDLC should result in a high quality system that meets or exceeds customer expectations, within time and cost estimates, works effectively and efficiently in the current and planned information technology (IT) infrastructure, and is cheap to maintain and cost-effective to enhance. </para>
+    </section>
+    
+    <section id="id1165167706237">
+      <title>Tasks</title>
+      <para id="id2797056">In project management a task is an activity that needs to be accomplished within a defined period of time. </para>
+    </section>
+    <section id="id3603841">
+      <title>Task analysis</title>
+      <para id="id8484171">The analysis or a breakdown of exactly how a task is accomplished, such as what sub-tasks are required. </para>
+    </section>
+    <section id="id1165180390978">
+      <title>Timeline</title>
+      <para id="id1165169853032">A graphical representation of a chronological sequence of events also referred to as a chronology. It can also mean a schedule of activities, such as a timetable.</para>
+    </section>
+    <section id="id1165177204042">
+      <title>Triple constraint</title>
+      <para id="id1165167755521">Triple constraint is called the scope triangle or the quality triangle. The triangle illustrates the relationship between three primary forces in a project. Project scope, time and cost--Project quality is affected by balancing these three factors. </para>
+    </section>
+    <section id="id1165180725265">
+      <title>Work</title>
+      <para id="id1165178188663">In project management is the amount of effort applied to produce a deliverable or to accomplish a task (a terminal element). </para>
+    </section>
+    <section id="id8581588"><title>Work breakdown structure (WBS)</title><para id="id7761691">A task oriented family tree of activities which organizes, defines and graphically dispays the total work to be accomplished in order to achieve the final objectives of a project. It is a system for sub-dividing a project into manageable work packages.</para>
+</section>
+    <section id="id1165176868749"><title>Work package</title><para id="id1165172494409">A deliverable at the lowest level of a work breakdown structure (WBS). They are a group of related  tasks that are defined at the same level within the WBS.</para>
+</section>
+    <section id="id8720562">
+      <title>Work plan (schedule)</title>
+      <para id="id1165178846959">The project work plan tells you how you will complete the project. It describes the activities required, the sequence of the work, who is assigned to the work, an estimate of how much effort is required, when the work is due, and other information of interest to the project manager. The work plan allows the project manager to identify the work required to complete the project and also allows the project manager to monitor the work to determine whether the project is on schedule. </para>
+    </section>
+  </content>
+</document>

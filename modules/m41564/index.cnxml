@@ -1,0 +1,117 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Proposed Project Life Cycle Sample</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41564</md:content-id>
+  <md:title>Proposed Project Life Cycle Sample</md:title>
+  <md:abstract>Sample Project Life Cycle demonstrated via table format.</md:abstract>
+  <md:uuid>54f10202-47fb-4a35-b8ab-06b93cf1c894</md:uuid>
+</metadata>
+
+<content>
+    <para id="id8733255">Teresa Hill
+
+<figure id="moviefig2"><media id="movie" alt="wizzard Guide to Project Management">
+		<video mime-type="video/mp4" src="The project wizards guide - YouTube.mp4" width="350" height="300" autoplay="false"/>
+	</media>
+	<caption>The Project Wizards Guide.
+     Click the Play button to start the movie.
+   </caption></figure>
+</para>
+    <para id="id1167331138067">
+      <emphasis>Request of Extension Consideration due to:</emphasis>
+    </para>
+    <list id="id1167327712435" list-type="bulleted">
+      <item>Addressing specific Project Life Cycle forms in table</item>
+      <item>Construction of table-given detail to the use of Microsoft office Standard toolbar and formatting toolbar</item>
+    </list>
+    <para id="id1167332918997">
+      <emphasis>Proposed Project Life Cycle</emphasis>
+    </para>
+    <para id="id1167330752975">Construction of running track</para>
+    <table id="id1167332375552" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis>Typical Project Phases</emphasis>
+            </entry>
+            <entry>
+              <emphasis>Typical Project Activities</emphasis>
+            </entry>
+            <entry>
+              <emphasis>My Project’s Phases</emphasis>
+            </entry>
+            <entry>
+              <emphasis>My Project’s Activities</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry><emphasis>Determine Need and Feasibility</emphasis><emphasis>Purpose:</emphasis> Confirm that project is needed, doable; formal “go/no go” approval.</entry>
+            <entry>Goal and concept definitionNeeds or market analysisStrategy definitionPreliminary benefit/cost analysis</entry>
+            <entry>Goal and concept definitionNeeds analysisPreliminary cost analysis</entry>
+            <entry>Discuss proposed construction deadline with contractors 2011. HISD School search for 77010 area. Obtain itemized statement from contractor.Complete project need and feasibility questionnaire. </entry>
+          </row>
+          <row>
+            <entry><emphasis>Create Project Plan</emphasis><emphasis>Purpose:</emphasis> Create formal document to guide project team as they execute project.</entry>
+            <entry>Involve stakeholders in specifying and agreeing upon project outcomes and methodologyCreate written record of assumptions, agreed-upon scope, resources, schedule, costs, etc.Obtain consensus and formal approval</entry>
+            <entry>Create written record of assumptions, agreed-upon scope, rescores, schedule, and cost.</entry>
+            <entry>Completed project scope statement.Obtain an itemized statement from contractor based on various track designs.Create quality plan.Complete guidelines for developing plan and assign duties.</entry>
+          </row>
+          <row>
+            <entry><emphasis>Create Deliverables Specifications</emphasis><emphasis>Purpose:</emphasis> Describe deliverables in substantial detail “on paper.”</entry>
+            <entry>Create design plans, flowcharts, blueprints, media treatments, other “on paper” deliverables descrip­tions and samples as appropriateCirculate and obtain feedback, revise, obtain formal approval</entry>
+            <entry>Create design plans, blueprints, media treatments, other “on paper” deliverables descrip­tions and samples as appropriate.Circulate and obtain feedback, revise, obtain formal approval.</entry>
+            <entry>Obtain from builders photos/diagrams of track shape/layout options, length specifications.Review options, and discuss track location with grant participants. Complete Project Scope Evaluation checklist.</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table id="id5101712" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry>
+              <emphasis>Typical Project Phases</emphasis>
+            </entry>
+            <entry>
+              <emphasis>Typical Project Activities</emphasis>
+            </entry>
+            <entry>
+              <emphasis>My Project’s Phases</emphasis>
+            </entry>
+            <entry>
+              <emphasis>My Project’s Activities</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry><emphasis>Create Deliverables Specifications</emphasis><emphasis>Purpose:</emphasis> Create prototypes, pieces; create full-blown, fully integrated deliverables</entry>
+            <entry>Create all promised deliverables, in “chunks” or completelyProvide planned services, execute planned activities, obtain formal approval</entry>
+            <entry>Provide planned services, execute planned activities, obtain formal approval.</entry>
+            <entry>Finalize choice of track to be built including track location, cost associated with track designComplete project authorization checklistHave grant participants sign/review project sign off form.</entry>
+          </row>
+          <row>
+            <entry><emphasis>Test and Implement Deliverables</emphasis><emphasis>Purpose:</emphasis> Make sure project deliverables work as planned; turn over to sponsor for use</entry>
+            <entry>Testing of deliverables (in whole or in part)Refinement, revisionFull production, implementation, and final approval</entry>
+            <entry>Testing of deliverables (in whole or in part)Full production, implementation and final approval</entry>
+            <entry>Use quality control plan.Plan site visits with Nike representatives</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id1167328911556">
+      <figure id="id1167330803729">
+        <media id="id1167330803729_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1.png" id="id1167330803729__onlineimage" height="13" width="13"/>
+        </media>
+      </figure>
+    </para>
+  </content>
+</document>
